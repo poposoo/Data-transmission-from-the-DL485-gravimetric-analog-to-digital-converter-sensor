@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing_cell_1.UserControl1.resources
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\bin\Debug\weighing cell 1.dll
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\bin\Debug\weighing cell 1.pdb
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.dll
+C:\Users\ASUS\source\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.pdb
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\bin\Debug\weighing cell 1.dll
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\bin\Debug\weighing cell 1.pdb
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.csproj.AssemblyReference.cache
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.csproj.GenerateResource.cache
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.csproj.CoreCompileInputs.cache
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.dll
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\obj\Debug\weighing cell 1.pdb
+J:\文件\大学部。\锚点\repos\weighing cell 1\weighing cell 1\obj\Debug\WeighingSensorControl.WeighingSensorControl.resources
